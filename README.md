@@ -2,6 +2,7 @@
   This project predicts the survival of passengers on the Titanic dataset using logistic regression.   We focus on the following features: **Age, Sex, Pclass, and Fare**.   The goal is to analyze patterns of survival and evaluate the predictive power of these features.
   
 🛳️ Titanic Survival Prediction
+
 📌 Project Overview
 
 This project analyzes the Titanic dataset to predict passenger survival using Logistic Regression.
@@ -56,6 +57,7 @@ Pclass showed that 1st-class passengers survived more often than 3rd-class.
 Age had a small negative effect (younger passengers survived more).
 
 The model achieved a reasonable accuracy with interpretable results.
+
 ⚙️ Technologies Used
 
 Python
