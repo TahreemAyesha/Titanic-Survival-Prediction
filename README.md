@@ -15,6 +15,7 @@ I focused on the following variables:
 *Fare
 
 The goal is to explore survival patterns and build a machine learning model that predicts whether a passenger survived or not.
+
 🔎Steps Performed
 
 Data Loading & Cleaning
@@ -44,6 +45,7 @@ Model evaluation using Accuracy, Confusion Matrix, and Classification Report
 Feature Importance
 
 Coefficients analyzed to see which features most affect survival.
+
 📊 Key Findings
 
 Sex was the strongest predictor (females had much higher survival chances).
@@ -64,6 +66,7 @@ Matplotlib, Seaborn
 Scikit-learn
 
 Jupyter Notebook
+
 ✅ Conclusion
 
 This project demonstrates how basic data preprocessing, visualization, and a logistic regression model can be used to understand survival patterns on the Titanic.
